@@ -35,8 +35,10 @@ TaskFlowManager/
 │── TaskManager.cs
 │── tasks.txt
 │── README.md
+
 ```
 ## 📌 How It Works
+
 Main Menu Options
 Add Task
 View Tasks
