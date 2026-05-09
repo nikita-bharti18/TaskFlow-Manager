@@ -79,6 +79,7 @@ tasks.txt
 This ensures your tasks remain saved even after closing the application.
 
 ## 🧠 Concepts Used
+
 Classes & Objects
 Encapsulation
 Lists
@@ -88,6 +89,7 @@ Switch Case
 Loops
 
 ## 🎯 Use Cases
+
 Daily Task Management
 Beginner C# Practice
 College Project
