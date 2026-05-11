@@ -97,26 +97,26 @@ dotnet run
 
 ## 🎯 Use Cases
 
-Daily Task Management
-Beginner C# Practice
-College Project
-Resume Project
-GitHub Portfolio
+- Daily Task Management
+- Beginner C# Practice
+- College Project
+- Resume Project
+- GitHub Portfolio
 
 ## 🔥 Future Improvements
 
-Task Deadline Support
-Priority Levels
-Search Tasks
-GUI Version
-SQL Database Integration
-User Login System
+- Task Deadline Support
+- Priority Levels
+- Search Tasks
+- GUI Version
+- SQL Database Integration
+- User Login System
 
 ## 🤝 Contributing
 
-Contributions are welcome.
+> Contributions are welcome.
 
-Fork the repository
-Create new branch
-Make changes
-Submit Pull Request
+- Fork the repository
+- Create new branch
+- Make changes
+- Submit Pull Request
