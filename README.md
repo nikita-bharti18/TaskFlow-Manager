@@ -49,17 +49,23 @@ Exit
 ## ▶️ Installation & Run
 
 > Step 1: Clone Repository
+
 ```
 git clone https://github.com/yourusername/TaskFlowManager.git
 ```
+
 > Step 2: Open Project Folder
+
 ```
 cd TaskFlowManager
 ```
+
 > Step 3: Run Project
+
 ```
 dotnet run
 ```
+
 ## 💻 Sample Output
 
 ===== TASKFLOW MANAGER =====
@@ -73,21 +79,21 @@ dotnet run
  ## Choose Option:
 📁 Data Storage
 
-All tasks are saved inside:
+- All tasks are saved inside:
 
-tasks.txt
+- tasks.txt
 
-This ensures your tasks remain saved even after closing the application.
+- This ensures your tasks remain saved even after closing the application.
 
 ## 🧠 Concepts Used
 
-Classes & Objects
-Encapsulation
-Lists
-File Read/Write
-Methods
-Switch Case
-Loops
+- Classes & Objects
+- Encapsulation
+- Lists
+- File Read/Write
+- Methods
+- Switch Case
+- Loops
 
 ## 🎯 Use Cases
 
